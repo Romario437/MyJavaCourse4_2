@@ -4,5 +4,6 @@ public class Main {
         System.out.println("Trash Metal!");
         String name = "Romario";
         System.out.println(name);
+        System.out.println(" ");
     }
 }
